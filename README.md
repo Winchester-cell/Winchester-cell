@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Reza Reihani<br><br>💻 Frontend Developer | Passionate about modern web technologies<br><br>🚀 Always learning and exploring new ways to build better applications<br><br>🔍 For me, programming is not just a job—it's an opportunity to solve problems, create better experiences, and continuously improve. I love learning new things and constantly seek to enhance my skills.<br><br>💡 Currently working with React and Tailwind, while learning Next.js and Node.js. I focus on writing clean, efficient, and maintainable code.<br><br>📫 Let's connect: <br><br>Telegram: [@reza_re_frontDev] 📬
+👋 Hi! I'm Reza Reihani<br><br>💻 Frontend Developer | Passionate about modern web technologies<br><br>🚀 Always learning and exploring new ways to build better applications<br><br>🔍 For me, programming is not just a job—it's an opportunity to solve problems, create better experiences, and continuously improve. I love learning new things and constantly seek to enhance my skills.<br><br>💡 Currently working with React and Next.js . I focus on writing clean, efficient, and maintainable code.<br><br>📫 Let's connect: <br><br>Telegram: [@reza_re_frontDev] 📬
 
 
 ## 🌐 Socials:
